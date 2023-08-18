@@ -1,0 +1,23 @@
+@import'https://api.fontshare.com/v2/css?f[]=general-sans@400&display=swap';
+@import'https://api.fontshare.com/v2/css?f[]=general-sans@400&display=swap';
+
+@import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css';
+
+
+@import './style.css';
+
+
+@import './component/header.css';
+@import './component/hero.css';
+
+
+@import './component/footer.css';
+@import './component/mobilenav.css';
+@import './utiles.css';
+
+@import './component/Indexstylehub.css';
+@import './component/contactstyle.hub.css';
+@import './component/aboutstyle.hub.css';
+@import './component/patientfeedbackstylehub.css';
+@import './component/commonhub.css';
+

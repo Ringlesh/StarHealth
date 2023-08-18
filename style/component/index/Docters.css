@@ -1,0 +1,17 @@
+
+.DOCTORS_container{
+
+    border-top:0.25rem solid var(--clr-slate600);
+    border-bottom:0.25rem solid var(--clr-slate600);
+    padding-left:0.5rem;
+    padding-bottom:0.5rem;
+    border-radius:1rem;
+    transition: 0.5s;
+    overflow:hidden;
+}
+
+.DOCTORS_container:hover{
+    background-color:var(--clr-slate600);
+    border-radius:1rem;
+   
+}

@@ -1,0 +1,18 @@
+.Over_Nav
+{
+   background-color: var(--clr-rose); 
+   color: var(--clr-light);
+   padding-top:1rem;
+   padding-bottom:1rem;
+}
+.OV_phone_txt
+{
+    display: inline;
+    margin-left: 2rem;
+    color: var(--clr-dark);
+}
+
+.OV_Main-Branch_txt{
+    color: var(--clr-dark);
+    display: inline;
+}

@@ -1,0 +1,25 @@
+.patient_feedback_layout_1
+{
+   box-shadow:1px 2px 3px var( --clr-slate600);
+   padding: 3rem;
+   border-top-right-radius:1rem;
+   border-bottom-right-radius:1rem;
+   transition: 0.3s;
+}
+
+.patient_feedback_layout_1:hover
+{
+   box-shadow:1px 3px 10px var( --clr-slate600);
+   
+
+  
+}
+
+.patient_feedback_title{
+   color: var(--clr-slate600);
+}
+
+.patient_feedback_descrption
+{
+   color: var(--clr-slate800);
+}
