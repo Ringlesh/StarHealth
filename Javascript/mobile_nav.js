@@ -11,6 +11,8 @@ console.log(isMobileNavOpen)
   const headerBtn= document.querySelector('.header__bar');
   const mobileNav=document.querySelector('.mobile-nav');
   const mobilelink=document.querySelectorAll(".mobile-nav__link");
+
+  const overnav =document.querySelector('#overnav')
   console.log(mobilelink)
 
 
@@ -21,6 +23,7 @@ console.log(isMobileNavOpen)
     {
       console.log(isMobileNavOpen)
     console.log("i am in");
+    overnav.style.display ='none'
     mobileNav.style.display='flex';
     document.body.style.overflow='hidden'
 

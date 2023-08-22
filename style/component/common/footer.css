@@ -8,6 +8,20 @@
   letter-spacing:0.2em;
   user-select: none;
 }
+
+.footer_link
+{
+  font-size:1rem;
+  text-decoration:none;
+  font-weight: 600;
+  color:var(--clr-dark);
+  letter-spacing:-0.05em;
+  transition:color 0.3s;
+}
+
+.footer_link:hover{
+  color: var(--clr-light);
+}
 /* xs */
 @media(min-width:475px )
 {

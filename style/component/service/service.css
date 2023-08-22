@@ -1,0 +1,5 @@
+.service_hover:hover
+{
+    background-color: var(--clr-slate800);
+    
+}
